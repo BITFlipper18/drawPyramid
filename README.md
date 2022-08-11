@@ -14,5 +14,5 @@ If somebody could help me out, or give additional suggestions, I would be glad t
 
 # What I learned
 
-- Make us eof definitions to keep code clean
+- Make use of definitions to keep code clean
 - integrate a Try-Except statemtn which attempts to get a correct user-input
